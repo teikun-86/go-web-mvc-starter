@@ -2,7 +2,7 @@
 Golang Web MVC Boilerplate
 
 ## Installation
-1. Clone this repository `git clone https://github.com/azizsama/go-web-mvc-starter`
+1. Clone this repository `git clone https://github.com/teikun-86/go-web-mvc-starter`
 2. CD into `go-web-mvc-starter`
 3. Run `go run .` command to start web development server or use `github.com/pilu/fresh` to restart development server automatically.
 4. Happy Coding!
